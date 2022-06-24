@@ -146,6 +146,9 @@ button {
   border-radius: var(--size-border-radius);
 }
 
+.navbar__menu__item.active {
+  border: 1px solid var(--color-white);
+}
 .navbar__menu__item:hover {
   border-color: var(--color-white);
   background-color: var(--color-blue);
@@ -558,9 +561,6 @@ button {
     display: block;
   }
 
-  .home__description {
-    font-size: var(--font-small);
-  }
   .section {
     padding: 16px;
     padding-top: 40px;
