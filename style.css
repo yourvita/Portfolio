@@ -165,7 +165,7 @@ button {
 
 /* Home */
 #home {
-  background: url("./assets/images/background-img.png") center/cover no-repeat;
+  background: url("../assets/images/background-img.png") center/cover no-repeat;
   padding: 40px;
   padding-top: 120px;
   text-align: center;
